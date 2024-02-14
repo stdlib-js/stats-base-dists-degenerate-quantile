@@ -65,13 +65,13 @@ for `0 <= p <= 1` and where `µ` is the constant value of the distribution.
 ## Usage
 
 ```javascript
-import quantile from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-degenerate-quantile@deno/mod.js';
+import quantile from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-degenerate-quantile@v0.2.0-deno/mod.js';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { factory } from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-degenerate-quantile@deno/mod.js';
+import { factory } from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-degenerate-quantile@v0.2.0-deno/mod.js';
 ```
 
 #### quantile( p, mu )
@@ -112,7 +112,7 @@ y = myquantile( 1.1 );
 
 ```javascript
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@deno/mod.js';
-import quantile from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-degenerate-quantile@deno/mod.js';
+import quantile from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-degenerate-quantile@v0.2.0-deno/mod.js';
 
 var mu;
 var p;
