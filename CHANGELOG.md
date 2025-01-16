@@ -2,6 +2,63 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2025-01-16)
+
+<section class="features">
+
+### Features
+
+-   [`4d14525`](https://github.com/stdlib-js/stdlib/commit/4d14525247db6d9450796b24fd5da28d7404011b) - add C implementation for `stats/base/dists/degenerate/quantile` [(#4587)](https://github.com/stdlib-js/stdlib/pull/4587)
+
+</section>
+
+<!-- /.features -->
+
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#3546](https://github.com/stdlib-js/stdlib/issues/3546)
+
+</section>
+
+<!-- /.issues -->
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`4d14525`](https://github.com/stdlib-js/stdlib/commit/4d14525247db6d9450796b24fd5da28d7404011b) - **feat:** add C implementation for `stats/base/dists/degenerate/quantile` [(#4587)](https://github.com/stdlib-js/stdlib/pull/4587) _(by Karan Anand, Philipp Burckhardt, stdlib-bot)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 2 people contributed to this release. Thank you to the following contributors:
+
+-   Karan Anand
+-   Philipp Burckhardt
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.2.2">
 
 ## 0.2.2 (2024-07-27)
